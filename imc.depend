@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628620206 source:c:\users\julis\onedrive\Área de trabalho\programação\imc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
